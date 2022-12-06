@@ -1,0 +1,15 @@
+[
+    {   "name":"irem",
+        "department":"bilişim",
+        "salary":2000
+        
+    },
+    {   "name":"batu",
+        "department":"bilişim",
+        "salary":5000
+    },
+    {   "name":"ceren",
+        "department":"pazarlama",
+        "salary":8000
+    }
+]
